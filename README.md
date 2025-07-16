@@ -1,12 +1,84 @@
-# React + Vite
+# Order Summary Card – Frontend Mentor Challenge
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es una solución al reto [Order Summary Card](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj) de Frontend Mentor.
 
-Currently, two official plugins are available:
+## 📚 Descripción
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Este reto fue creado para practicar mis habilidades con:
 
-## Expanding the ESLint configuration
+- Tailwind CSS
+- React
+- Diseño responsive
+- Componentes reutilizables
+- Estilos usando colores y tipografías personalizados
+- Uso de clases arbitrarias (`bg-[hsl(...)]`) con Tailwind
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Demo
+
+- 💻 [Sitio en vivo](https://front-mentor-omega.vercel.app/)  
+
+
+
+---
+
+## 🧩 El reto
+
+Los usuarios deben poder:
+
+- Ver el diseño en pantallas móviles y de escritorio
+- Ver los efectos `hover` en los botones y el enlace "Change"
+- Ver una tarjeta limpia, ordenada y con diseño atractivo
+
+---
+
+## 🛠️ Tecnologías usadas
+
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- HTML semántico
+- Responsive Design (mobile first)
+- Tipografía [Red Hat Display](https://fonts.google.com/specimen/Red+Hat+Display)
+
+---
+
+## 🧠 ¿Qué aprendí?
+
+- Cómo usar clases arbitrarias de Tailwind con `hsl()`
+- Cómo centrar tarjetas vertical y horizontalmente con `flex` y `min-h-screen`
+- Cómo crear una estructura limpia usando React y Tailwind
+- Alineación de contenido con `flex`, `grid`, y clases utilitarias
+
+---
+
+## 🎯 Desarrollo futuro
+
+Quiero seguir practicando:
+
+- Animaciones con `Framer Motion` o `@tailwindcss/typography`
+- Accesibilidad (mejorar el contraste y navegación por teclado)
+- Uso de `localStorage` o un backend simulado para guardar datos
+
+---
+
+## 🖼️ Captura de pantalla
+
+![Vista previa](./screenshot.png)
+
+> Toma una captura de pantalla desde tu navegador y guárdala como `screenshot.png`.
+
+---
+
+## 🧑 Autor
+
+- Frontend Mentor: [@tuusuario](https://www.frontendmentor.io/profile/tuusuario)
+- GitHub: [@tuusuario](https://github.com/tuusuario)
+
+---
+
+## 🙏 Agradecimientos
+
+Gracias a Frontend Mentor por crear estos retos.  
+Este proyecto fue realizado con fines de práctica y aprendizaje personal.
+

@@ -1,10 +1,11 @@
 import Songsvg from '../../assets/images/icon-music.svg'
+import firstimage from '../../src/assets/images/illustration-hero.svg'
 export default function card() {
     return (
         <div className='main min-h-screen flex items-center justify-center bg-blue-50 p-10'>
 
             <div className='bg-white rounded-2xl shadow-md max-w-sm w-full overflow-hidden ' id="card ">
-                <img className='rounded-t-2xl w-full' src="../../src/assets/images/illustration-hero.svg" alt='ilustration' />
+                <img className='rounded-t-2xl w-full' src={firstimage} alt='ilustration' />
                 <div className="main-section grid justify-center gap-8 bg-white p-6 rounded-2xl max-w-sm w-full shadow-md">
 
                     {/* Título y descripción */}
